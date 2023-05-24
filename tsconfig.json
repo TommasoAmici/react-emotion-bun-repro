@@ -1,13 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES6",
-    "module": "ESNext",
-    "lib": ["dom", "dom.iterable", "esnext"],
     "jsx": "react-jsx",
-    "moduleResolution": "node",
-    "strict": true,
-    "noEmit": true,
-    "skipLibCheck": true,
     "jsxImportSource": "@emotion/react"
   }
 }
